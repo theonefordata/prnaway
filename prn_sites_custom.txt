@@ -3,12 +3,16 @@
 127.0.0.1  localhost
 ::1  localhost
 
-127.0.0.1       www.mrcong.com
-127.0.0.1       www.javfinder.la
-127.0.0.1       www.graphis.ne.jp
-127.0.0.1       www.idolfile.com
-127.0.0.1       www.anime-sharing.com
-127.0.0.1       www.xidol.net
-127.0.0.1       www.rarbgproxied.org/torrents.php?category=2;4
-127.0.0.1       www.1337x.unblockit.onl/popular-xxx
-127.0.0.1       www.reddit.com/r/Piracy/wiki/megathread/porn
+127.0.0.1       mrcong.com
+127.0.0.1       javfinder.la
+127.0.0.1       graphis.ne.jp
+127.0.0.1       idolfile.com
+127.0.0.1       anime-sharing.com
+127.0.0.1       xidol.net
+127.0.0.1       rarbgproxied.org/torrents.php?category=2;4
+127.0.0.1       1337x.unblockit.onl/popular-xxx
+127.0.0.1       reddit.com/r/Piracy/wiki/megathread/porn
+127.0.0.1       javlib.com
+127.0.0.1       javlibrary.com
+127.0.0.1       javhdporn.net
+127.0.0.1       e-hentai.org
