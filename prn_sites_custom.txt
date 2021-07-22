@@ -9,9 +9,6 @@
 127.0.0.1       idolfile.com
 127.0.0.1       anime-sharing.com
 127.0.0.1       xidol.net
-127.0.0.1       rarbgproxied.org/torrents.php?category=2;4
-127.0.0.1       1337x.unblockit.onl/popular-xxx
-127.0.0.1       reddit.com/r/Piracy/wiki/megathread/porn
 127.0.0.1       javlib.com
 127.0.0.1       javlibrary.com
 127.0.0.1       javhdporn.net
