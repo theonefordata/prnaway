@@ -13,3 +13,5 @@
 127.0.0.1       javlibrary.com
 127.0.0.1       javhdporn.net
 127.0.0.1       e-hentai.org
+127.0.0.1       rule34.xxx
+127.0.0.1       sukebei.nyaa
