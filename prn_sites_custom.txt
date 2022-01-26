@@ -15,3 +15,8 @@
 127.0.0.1       e-hentai.org
 127.0.0.1       rule34.xxx
 127.0.0.1       sukebei.nyaa
+127.0.0.1       javgg.me
+127.0.0.1       password69.com
+127.0.0.1       xpassd.net
+127.0.0.1       xcitypass.com
+127.0.0.1       livetvradios.com
